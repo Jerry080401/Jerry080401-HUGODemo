@@ -1,4 +1,4 @@
 baseURL = 'https://jerry080401.github.io/Jerry080401-HUGODemo/'
 languageCode = 'zh-hant'
-title = '快速使用 HUGO'
+title = 'HUGO Demo'
 theme = 'ananke'
